@@ -21,10 +21,7 @@ https://movie-web-app-1234.web.app
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
-
-### 🎥 Movie Listing Page
-![Movies Page](screenshots/movies.png)
+![Home Page](screenshots/Screenshot 2026-02-14 115142.png)
 
 ## 📦 Installation
 1. Clone the repository:
